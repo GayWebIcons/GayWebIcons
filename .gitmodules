@@ -4,3 +4,6 @@
 [submodule "Site"]
 	path = Site
 	url = https://github.com/gaywebicons/site.git
+[submodule "cdn"]
+	path = cdn
+	url = https://github.com/gaywebicons/cdn.git
