@@ -1,0 +1,6 @@
+[submodule "Icons"]
+	path = Icons
+	url = https://github.com/gaywebicons/icons.git
+[submodule "Site"]
+	path = Site
+	url = https://github.com/gaywebicons/site.git
