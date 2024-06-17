@@ -1,0 +1,27 @@
+{
+    "psi-header.config": {
+        "author": "David Gerard",
+        "authorEmail": "david@iamtheantwink.com",
+        "blankLinesAfter": 1,
+        "company": "I Am the Antitwink!™️",
+        "copyrightHolder": "David Gerard",
+        "creationDateZero": "blank",
+        "forceToTop": true,
+        "initials": "iata",
+        "license": "MIT",
+        "modDateFormat": "date-time",
+        "spacesBetweenYears": true,
+        "updateLicenseVariables": true
+    },
+    "psi-header.variables": [
+        [
+            "projectCreationYear",
+            "2024"
+        ]
+    ],
+    "yaml.schemas": {
+        "file:///Users/david/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "file:///Users/david/.vscode/extensions/docsmsft.docs-yaml-1.0.0/dist/toc.schema.json": "/toc\\.yml/i",
+        "https://json.schemastore.org/github-issue-config.json": "file:///Users/david/GitHub/GayWebIcons/.github/.github/ISSUE_TEMPLATE/config.yml"
+    },
+}
